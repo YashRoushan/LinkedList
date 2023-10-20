@@ -155,4 +155,4 @@ public class LinkedList<T> {
             }
         } // finish while loop
     } // finish method
-}
+} // class finished
